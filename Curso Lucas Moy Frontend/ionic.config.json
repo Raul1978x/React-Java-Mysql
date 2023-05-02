@@ -1,0 +1,7 @@
+{
+  "name": "curso-lucas-moy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
